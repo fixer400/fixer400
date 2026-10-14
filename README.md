@@ -1,5 +1,4 @@
 Welcome to my GH collection.
-My name is Vladislav.
 
 #### My current stack:
 
